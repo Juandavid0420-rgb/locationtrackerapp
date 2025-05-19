@@ -14,4 +14,5 @@ object SupabaseClient {
         install(GoTrue)
         install(Storage)
     }
+
 }
